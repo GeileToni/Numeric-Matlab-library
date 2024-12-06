@@ -32,5 +32,4 @@ for i = 1:nEl
     A(T(i,:), T(i,:)) = A(T(i,:), T(i,:)) + AK;
 
 end
-
 end
